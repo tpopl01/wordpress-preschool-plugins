@@ -1,0 +1,14 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+.wp-block-cgb-block-tp-user-card {
+  margin-top: 6px;
+  margin-bottom: 6px; }
